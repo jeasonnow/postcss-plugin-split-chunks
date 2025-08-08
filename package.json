@@ -1,6 +1,6 @@
 {
   "name": "postcss-plugin-split-chunks",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "PostCSS plugin A PostCSS plugin that intelligently splits a single CSS file into multiple smaller chunks based on a configurable byte size limit. It preserves nested structures like @media queries, ensuring styles remain correctly grouped across the generated files. Ideal for environments with CSS size restrictions or for improving parallel loading performance.",
   "keywords": ["postcss", "css", "postcss-plugin", "postcss-plugin-split-chunks"],
   "scripts": {
