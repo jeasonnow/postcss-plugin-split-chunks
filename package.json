@@ -5,9 +5,10 @@
   "keywords": ["postcss", "css", "postcss-plugin", "postcss-plugin-split-chunks"],
   "scripts": {
     "unit": "node --test index.test.js",
-    "test": "npm run unit && eslint ."
+    "test": "npm run unit && eslint .",
+    "demo": "node example/demo.js"
   },
-  "author": "santree.g <santree.g@mexc.com>",
+  "author": "santree.g <santree122@gmail.com>",
   "license": "MIT",
   "repository": "jeasonnow/postcss-plugin-split-chunks",
   "engines": {
